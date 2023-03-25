@@ -50,3 +50,5 @@ The `idf.py flash` target does not erase the entire flash contents. However it i
 
 This can be combined with other targets, ie `idf.py -p PORT erase-flash flash` will erase everything and then re-flash the new app, bootloader and partition table.
 
+## Reference
+https://github.com/espressif/esp-idf
